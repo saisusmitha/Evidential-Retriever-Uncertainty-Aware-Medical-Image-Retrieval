@@ -1,5 +1,7 @@
 # Evidential-Retriever-Uncertainty-Aware-Medical-Image-Retrieval
-Developed an Retriever model utilizing foundation models (BiomedCLIP, RAD-DINO) to extract reliable uncertainty estimates alongside predictive features. Built reproducible computational pipelines to evaluate on large-scale, heterogeneous datasets (CheXpert, NIH-14), providing quantifiable confidence scores for safe, AI-enabled clinical diagnostics
+Developed an Retriever model utilizing foundation models (BiomedCLIP, RAD-DINO) to extract reliable uncertainty estimates alongside predictive features. Built reproducible computational pipelines to evaluate on large-scale, heterogeneous datasets (CheXpert, NIH-14), providing quantifiable confidence scores for safe, AI-enabled clinical diagnostics.
+
+
 [Accepted at MIDL 2026]
 
 Abstract:
